@@ -20,8 +20,8 @@ Note: you can perform local user, Not necessary to create new user.
 The above command will **Set-ExecutionPolicy** through Powershell
 
 
-> Then run the below script to give amdin privileges.
+> Then run the below script for admin remote privileges.
 
-
+[Remote_Previliges](https://github.com/VenkatProjects/Ansible-and-Windows/blob/main/Install_software/Install_Softwares.txt)
 
 
