@@ -6,8 +6,6 @@
 
 ![user](https://user-images.githubusercontent.com/67817741/183619099-e5e8303d-4314-49c2-b374-df209bc752b6.jpg)
 
-
-
 Note: you can perform local user, Not necessary to create new user. 
 
 > Then login to windows by using **win_admin**
@@ -22,6 +20,8 @@ Note: you can perform local user, Not necessary to create new user.
 The above command will **Set-ExecutionPolicy** through Powershell
 
 
-> Then run the below script to give amdin previleges.
+> Then run the below script to give amdin privileges.
+
+
 
 
