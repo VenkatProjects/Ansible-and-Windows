@@ -22,6 +22,6 @@ The above command will **Set-ExecutionPolicy** through Powershell
 
 > Then run the below script for admin remote privileges.
 
-[Remote_Previliges](https://github.com/VenkatProjects/Ansible-and-Windows/blob/main/Install_software/Install_Softwares.txt)
+[Remote_Previliges](https://github.com/VenkatProjects/Ansible-and-Windows/blob/main/Install_software/Remote_Privileges.txt)
 
 
