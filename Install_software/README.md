@@ -36,7 +36,7 @@ OR
 		
 If you want to run specific user name, then follow 
 
-		-m pip install --user --ignore-installed pywinrm
+		python3 -m pip install --user --ignore-installed pywinrm
 
 > Then,	
 		
@@ -48,9 +48,14 @@ If you want to run specific user name, then follow
 	
 > Last step to add or create Host file with below variables.
 
-			[windows]
-			
-			[windows:vars]
+		[windows]
+		
+		34.239.106.213
+	**you need to enter public ip when you're performing from VM or Hyper.**
+	
+
+		[windows:vars]
+		
 		ansible_user=win_admin
 		ansible_password=******
 		ansible-port=5986
@@ -83,5 +88,21 @@ Before installing google chrome softwares
 
 ![beforesoft](https://user-images.githubusercontent.com/67817741/183628746-400e8d5c-b82e-421d-bd61-495b01351416.JPG)
 
+After Run, 
+
+![aftersoft](https://user-images.githubusercontent.com/67817741/183629596-42067333-161a-48e9-ba6b-0c918a02a5ae.JPG)
+
+
+![succeed](https://user-images.githubusercontent.com/67817741/183629601-1dbaac79-0670-41d2-9828-38a341268196.JPG)
+
+Now Successfully installed Google chrome browser.
+
+If you want perform Mulitiple Applications then follow below.
+
+
+
+
 	
 	notepadplusplus, putty, winscp
+	
+	
