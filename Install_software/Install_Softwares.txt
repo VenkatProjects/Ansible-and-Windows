@@ -1,0 +1,10 @@
+---
+ - name: Installing the Required software's
+   hosts: windows
+   connection: local
+   gather_facts: false
+   tasks:
+    - name: Install Chrome Browser
+      win_chocolatey:
+	name: googlechrome
+	state: present
