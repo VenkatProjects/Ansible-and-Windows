@@ -4,7 +4,7 @@
 
 #### Here created new user name called **win_admin** and provided admin rights to perform software installation
 
-![user](https://user-images.githubusercontent.com/67817741/183619099-e5e8303d-4314-49c2-b374-df209bc752b6.jpg)
+![1user](https://user-images.githubusercontent.com/67817741/183625081-81753c46-e0ab-4a71-9d14-ee3c3bfb765d.jpg)
 
 Note: you can perform local user, Not necessary to create new user. 
 
