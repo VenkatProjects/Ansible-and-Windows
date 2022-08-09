@@ -90,19 +90,25 @@ Before installing google chrome softwares
 
 After Run, 
 
-![aftersoft](https://user-images.githubusercontent.com/67817741/183629596-42067333-161a-48e9-ba6b-0c918a02a5ae.JPG)
-
-
 ![succeed](https://user-images.githubusercontent.com/67817741/183629601-1dbaac79-0670-41d2-9828-38a341268196.JPG)
 
 Now Successfully installed Google chrome browser.
 
+![aftersoft](https://user-images.githubusercontent.com/67817741/183629596-42067333-161a-48e9-ba6b-0c918a02a5ae.JPG)
+
+
 If you want perform Mulitiple Applications then follow below.
+
+
+![muliple](https://user-images.githubusercontent.com/67817741/183630450-76f1d327-7a00-43e3-a780-5d25f6cf51a2.J
+
+
+![muliplesucced](https://user-images.githubusercontent.com/67817741/183630438-6ad22263-b68e-48a5-ba5c-f5afa52d88c0.JPG)
 
 
 
 
 	
-	notepadplusplus, putty, winscp
+	
 	
 	
