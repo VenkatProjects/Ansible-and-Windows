@@ -100,13 +100,13 @@ Now Successfully installed Google chrome browser.
 If you want perform Mulitiple Applications then follow below.
 
 
-![muliple](https://user-images.githubusercontent.com/67817741/183630450-76f1d327-7a00-43e3-a780-5d25f6cf51a2.J
+![muliple](https://user-images.githubusercontent.com/67817741/183630450-76f1d327-7a00-43e3-a780-5d25f6cf51a2.JPG)
 
 
 ![muliplesucced](https://user-images.githubusercontent.com/67817741/183630438-6ad22263-b68e-48a5-ba5c-f5afa52d88c0.JPG)
 
 
-
+![softdone](https://user-images.githubusercontent.com/67817741/183631046-3620bd18-e4cd-430b-afc3-c587a16f2d57.JPG)
 
 	
 	
